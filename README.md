@@ -58,7 +58,7 @@ Experimental high-performance archiver/compressor with impressive benchmark resu
 - **2020 – 2022** — Freelance (hobby boards + client embedded project during CO)
 - **2017 – 2020** — World Class Hi-Tech Company (respect to the team!)
 - **2013 – 2016** — Freelance & Personal Software/Hardware Projects
-- **2010 - 2012** - GVIF Interface Prototypes for Toyota/Lexus ( Base, Max, Mini versions )
+- **2010 - 2012** — GVIF Interface Prototypes for Toyota/Lexus ( Base, Max, Mini versions )
 - **2007 – 2009** — Software Outsourcing Company ( Autonavi Project 2008 )
 - **2000 – 2006** — Multiple companies in Germany (HOPA Motortuning, GPS & Logistic, Motortuning GmbH)
 - **1998 – 1999** — Embedded practice in Ukrainian company (security GSM/GPS systems & control panels)
