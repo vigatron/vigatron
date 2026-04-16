@@ -35,12 +35,12 @@ Creator of several unique open-source and personal hardware projects, including 
 
 #### Embedded VideoCARD2008
 Custom retro video card project (full documentation + Grok analysis).  
-[→ VideoCARD 2008](https://vigatron.github.io/projects/videocard2008)
+[→ VideoCARD 2008](https://vigatron.github.io/projects/videocard2008)  
 [→ github details](https://github.com/vigatron/docs/tree/main/projects/videocard2008)
 
 #### BRD32F407HDMIR3
 High-speed board: **STM32F407 + XC6SLX9 FPGA + SDRAM + HDMI Output**  
-[→ View project page](https://vigatron.github.io/projects/cmboards/brd32f407hdmir3)
+[→ View project page](https://vigatron.github.io/projects/cmboards/brd32f407hdmir3)  
 [→ github details](https://github.com/vigatron/docs/tree/main/projects/cmboards/brd32f407hdmir3)
 
 #### PUSHK Archiver
