@@ -17,8 +17,8 @@ Nick Name V01G04A81
 
 Creator of several unique open-source and personal hardware projects, including a retro-style Embedded Video Card and a high-performance PUSHK Archiver.
 
-- 📺 [YouTube Channel](https://www.youtube.com/@ViktorGlebov)
 - 🔗 Personal GitHub: [github.com/vigatron](https://github.com/vigatron)
+- 📺 [YouTube Channel](https://www.youtube.com/@ViktorGlebov)
 
 ---
 
@@ -34,46 +34,33 @@ Creator of several unique open-source and personal hardware projects, including 
 ### 🔥 Featured Projects
 
 #### Embedded VideoCARD2008
-Custom retro video card project (full documentation + Grok analysis).  
-[→ VideoCARD 2008](https://vigatron.github.io/projects/videocard2008)  
-[→ github details](https://github.com/vigatron/docs/tree/main/projects/videocard2008)
+Retro video card project with full documentation and analysis  
+→ [Site](https://vigatron.github.io/projects/videocard2008) · [GitHub](https://github.com/vigatron/docs/tree/main/projects/videocard2008)
 
 #### BRD32F407HDMIR3
-High-speed board: **STM32F407 + XC6SLX9 FPGA + SDRAM + HDMI Output**  
-[→ View project page](https://vigatron.github.io/projects/cmboards/brd32f407hdmir3)  
-[→ github details](https://github.com/vigatron/docs/tree/main/projects/cmboards/brd32f407hdmir3)
+STM32F407 + XC6SLX9 FPGA + SDRAM + HDMI output board  
+→ [Site](https://vigatron.github.io/projects/cmboards/brd32f407hdmir3) · [GitHub](https://github.com/vigatron/docs/tree/main/projects/cmboards/brd32f407hdmir3)
 
 #### PUSHK Archiver
-Experimental high-performance archiver/compressor with impressive benchmark results on graphics and data.  
-- [pushk2pre1move](https://vigatron.github.io/pushk2pre1move)  
-- [pushk2pre2spc](https://vigatron.github.io/pushk2pre2spc)  
-- [pushk2pre3rdrop](https://vigatron.github.io/pushk2pre3rdrop)  
-- [pushk (compression results)](https://github.com/vigatron/pushk)
+Experimental compression system with strong image/data benchmarks  
+→ [pushk2pre1move](https://vigatron.github.io/pushk2pre1move) · [pushk2pre2spc](https://vigatron.github.io/pushk2pre2spc) · [pushk2pre3rdrop](https://vigatron.github.io/pushk2pre3rdrop) · [results](https://github.com/vigatron/pushk)
 
 ---
 
-### 💼 Work Experience
-
-- **2022 – 2025** — World-famous First Class Hi-Tech Company (embedded & hardware development)
-- **2020 – 2022** — Freelance (hobby boards + client embedded project during CO)
-- **2017 – 2020** — World Class Hi-Tech Company (respect to the team!)
-- **2013 – 2016** — Freelance & Personal Software/Hardware Projects
-- **2010 - 2012** — GVIF Interface Prototypes for Toyota/Lexus ( Base, Max, Mini versions )
-- **2007 – 2009** — Software Outsourcing Company ( Autonavi Project 2008 )
-- **2000 – 2006** — Multiple companies in Germany (HOPA Motortuning, GPS & Logistic, Motortuning GmbH)
-- **1998 – 1999** — Embedded practice in Ukrainian company (security GSM/GPS systems & control panels)
-
----
-
-### 🖥️ Hardware Journey
-
-Grew up and learned on a huge variety of classic computers, notebooks and consoles (1992–2005):
-
-- AMD 3 GHz, Pentium 4 / Pentium II, Cyrix 200 MHz, 386SX, 286SX, 8086…
-- Notebooks from Compaq LTE 286 to Pentium 1 GHz
-- Consoles & retro: NES, ZX Spectrum 48, Atari 130XE, БК-0010, УКНЦ, ЕС-1840 and more
-
-Full list → [Computers, Notebooks & Game Consoles](https://telegra.ph/Computers-Notebooks-and-Game-Consoles-04-10)
+<table>
+    <tr>
+        <td width="50%">
+            <div class="section-title">💼 Work Experience</div>
+            <div>Professional embedded & hardware/software development career spanning multiple companies and freelance work.</div>
+            <a href="https://vigatron.github.io/workexp.html">Open details →</a>
+        </td>
+        <td >
+            <div class="section-title">🖥️ Early Hardware Journey</div>
+            <div>Classic computers, notebooks and retro systems from early 90s to 2000s era.</div>
+            <a href="https://vigatron.github.io/computers.html">Open details →</a>
+        </td>
+    </tr>
+</table>
 
 ---
 
